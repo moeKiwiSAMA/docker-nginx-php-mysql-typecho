@@ -17,7 +17,7 @@ Tested Typecho version: 1.1(17.10.30)
 Ubuntu:
 
 ```bash
-apt -y install git wget tar
+sudo apt -y install git wget tar
 ```
 
 clone this repository
